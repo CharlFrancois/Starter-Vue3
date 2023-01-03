@@ -1,3 +1,10 @@
 {
-  "title": "Bienvenue sur le starter Vue3"
+  "navbar": {
+    "home": "Accueil",
+    "bar": "Mon bar",
+    "franchise": "Franchise",
+    "contact": "Contact",
+    "signin": "Connexion",
+    "signup": "Inscription"
+  }
 }

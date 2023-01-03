@@ -7,3 +7,5 @@ export const canUseWebP = () => {
   // very old browser like IE 8, canvas not supported
   return false;
 }
+
+export const isMobile = () => screen.width <= 760
